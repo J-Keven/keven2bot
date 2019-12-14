@@ -1,6 +1,6 @@
 import telebot
 
-KEY = "902749089:AAEj5X-1HCeTDdeKMZ-CfWEPRnvFRbOtYOA"
+KEY = "902749089:AAEj5X-1HCeTDdeKMZ-CfWEPRnvFRbOtYOA" #Chave fornecida na criação do bot....
 bot = telebot.TeleBot(KEY)
 
 @bot.message_handler(commands=["oi", "cafe", "pipoca", "programar", "cansado"])
