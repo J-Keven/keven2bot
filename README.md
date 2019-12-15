@@ -13,4 +13,4 @@ De início é necessário criar um bot no telegram e obter a key de acesso a ess
 -  Feito isso voce recebera um token que servira para que você possa acesar a API.
 - Também sera necessário  que voce tenha a API instalada na sua maquina, para isso execute o comando abaixo:
 
-	pip3 install pyTelegrambotAPI
+	    pip3 install pyTelegrambotAPI
